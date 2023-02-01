@@ -1,0 +1,8 @@
+"vid","service","location","price","rating","status","totalEventExp","serviceId"
+"v02","BridalMakup","mumbai",2000.0,4,"available",150,"s02"
+"v03","BridalWear","mumbai",5000.0,4,"available",100,"s03"
+"v01","BridalMakup","mumbai",19000.0,5,"available",100,"s04"
+"v01","BridalWear","mumbai",15000.0,40000,"available",90,"s05"
+"v01","groomWear","mumbai",10000.0,4,"available",100,"s06"
+"v01","photoshoot","mumbai",2000.0,400,"available",150,"s07"
+"v01","BridalWear","mumbai",5000.0,4,"available",150,"s10"
